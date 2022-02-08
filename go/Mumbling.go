@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/go
+//https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/go
 package kata
 
 import (
